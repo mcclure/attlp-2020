@@ -2,7 +2,7 @@
 
 **An experiment**
 
-I'm going to try to do a stream (or series of streams?) where I learn to use antique logic-programming language Prolog, and maybe then attempt some more modern logic systems like Kanren, and explain it for viewers as I go. I am going to archive the links here.
+I'm going to try to do a stream (or series of streams?) where I learn to use antique logic-programming language Prolog, and maybe then attempt some more modern logic systems like Kanren, and explain it for viewers as I go. I am going to archive stream materials here.
 
 ### The stream
 

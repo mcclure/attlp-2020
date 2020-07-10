@@ -2,7 +2,7 @@
 
 **An experiment**
 
-I'm going to try to do a stream (or series of streams?) where I learn to use antique logic-programming language Prolog, and maybe then attempt some more modern logic systems like Kanren. I am going to archive the links here.
+I'm going to try to do a stream (or series of streams?) where I learn to use antique logic-programming language Prolog, and maybe then attempt some more modern logic systems like Kanren, and explain it for viewers as I go. I am going to archive the links here.
 
 ### The stream
 
@@ -21,6 +21,10 @@ I'm going to read some of this before the stream:
 This is the book I'm going to try (?) to follow along with during the stream:
 
 * [Read "The Art of Prolog" online](https://mitpress.mit.edu/books/art-prolog-second-edition) (click "Open Access")
+
+### After the stream...
+
+There is a [workshop on Kanren](https://icfp20.sigplan.org/home/minikanren-2020) happening in August 2020.
 
 ### Contact me
 

@@ -6,7 +6,11 @@ I'm going to try to do a stream (or series of streams?) where I learn to use ant
 
 ### The stream
 
-Watch at [https://www.twitch.tv/mcc111](https://www.twitch.tv/mcc111) at 2 PM ET, Jul 11.
+Watch at [https://www.twitch.tv/mcc111](https://www.twitch.tv/mcc111) at 2 PM ET, Jul 18. This time I'm gonna try to write a Sudoku solver.
+
+#### Previous streams
+
+* [Stream 1, Jul 11](https://www.twitch.tv/videos/676700202): In which we learned the Prolog basics, and accidentally recreated Peano arithmetic from scratch.
 
 ### Links to follow along with the stream
 
@@ -21,6 +25,10 @@ I'm going to read some of this before the stream:
 This is the book I'm going to try (?) to follow along with during the stream:
 
 * [Read "The Art of Prolog" online](https://mitpress.mit.edu/books/art-prolog-second-edition) (click "Open Access")
+
+#### Sudoku
+
+* [Here](https://www.youtube.com/watch?v=hAyZ9K2EBF0) is the sudoku I'm gonna try to solve on the Jul 18 stream.
 
 ### After the stream...
 
